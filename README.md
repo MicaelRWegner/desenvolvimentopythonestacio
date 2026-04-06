@@ -1,1 +1,1 @@
-# TRabalho de Extensão: Desenvolvimento de aplicações em Python
+# Trabalho de Extensão: Desenvolvimento de aplicações em Python
